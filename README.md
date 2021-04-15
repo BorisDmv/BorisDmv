@@ -1,4 +1,6 @@
-# Boris
+# Welcome to my GITHUB profile
+
+🌟Stats about me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisdmv&layout=compact&theme=blue-green)](https://github.com/borisdmv/github-readme-stats)
 
