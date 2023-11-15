@@ -1,4 +1,3 @@
 # Welcome to my GITHUB profile
 
-🚀Currently working...</br>
-🌟Stats about me
+🚀 Always working to make the world a better place...</br>
